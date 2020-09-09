@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+  "node": "14.4.0"
+  },
   "author": "N",
   "license": "MIT",
   "dependencies": {
